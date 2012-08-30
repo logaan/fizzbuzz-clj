@@ -1,4 +1,3 @@
-; Hmm no worky :(
 (ns fizzbuzz.core)
 
 (defn divisible-by? [divisor number]
